@@ -12,7 +12,8 @@ Featuremap_visualization in tensorflow 2.0
 환경
 ------
 #### Cat vs Dog dataset Download Site : <https://www.kaggle.com/c/dogs-vs-cats/data>
-Cat and Dog Dataset 에서 accuracy 91.95%의 학습된 VGG16 Model를 기반으로 Colab 환경에서 제작. 자세한 모델 구조는 Code 참고   
+Cat and Dog Dataset 에서 accuracy 91.95%의 학습된 VGG16 Model를 기반으로 Colab 환경에서 제작.    
+자세한 모델 구조는 Code 참고   
 
 
 설명
